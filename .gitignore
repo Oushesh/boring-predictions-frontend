@@ -2,3 +2,4 @@
 node_modules/
 External Libraries/
 .idea/
+.DS_Store
