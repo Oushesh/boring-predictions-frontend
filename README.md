@@ -1,0 +1,2 @@
+# boring-predictions-frontend
+Frontendonly
